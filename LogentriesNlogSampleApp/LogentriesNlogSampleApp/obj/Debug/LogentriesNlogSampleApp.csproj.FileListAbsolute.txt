@@ -1,0 +1,12 @@
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\LogentriesNlogSampleApp.exe.config
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\LogentriesNlogSampleApp.exe
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\LogentriesNlogSampleApp.pdb
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\LogentriesCore.dll
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\LogentriesNLog.dll
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\NLog.dll
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\bin\Debug\NLog.xml
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\obj\Debug\LogentriesNlogSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\obj\Debug\LogentriesNlogSampleApp.exe
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesNlogSampleApp\LogentriesNlogSampleApp\obj\Debug\LogentriesNlogSampleApp.pdb

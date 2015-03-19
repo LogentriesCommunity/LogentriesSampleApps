@@ -1,0 +1,13 @@
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\LogentriesLog4NetSampleApp.exe.config
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\obj\Debug\LogentriesLog4NetSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\App.config
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\LogentriesLog4NetSampleApp.exe
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\LogentriesLog4NetSampleApp.pdb
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\log4net.dll
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\LogentriesCore.dll
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\LogentriesLog4net.dll
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\log4net.xml
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\obj\Debug\LogentriesLog4NetSampleApp.exe
+C:\Users\Stephen\Documents\GitHub\LogentriesSampleApps\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp\obj\Debug\LogentriesLog4NetSampleApp.pdb
