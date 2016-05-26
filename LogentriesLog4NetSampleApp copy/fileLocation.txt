@@ -1,0 +1,1 @@
+File where the print is printed and saved is: C:\Users\Stephen\Desktop\LogentriesLog4NetSampleApp\LogentriesLog4NetSampleApp copy\LogentriesLog4NetSampleApp\bin\Debug
