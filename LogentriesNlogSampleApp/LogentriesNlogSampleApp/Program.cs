@@ -15,7 +15,6 @@ namespace LogentriesNlogSampleApp
             logger.Info("Info message");
             logger.Warn("Warning message");
             logger.Error("Error message");
-            logger.Fatal("Fatal message");
             String a = System.Console.ReadLine();
         }
     }

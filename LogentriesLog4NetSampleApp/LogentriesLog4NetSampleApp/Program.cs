@@ -8,14 +8,20 @@ namespace LogentriesLog4NetSampleApp
 {
     class Program
     {
-        private static readonly ILog logger = LogManager.GetLogger( typeof(Program));
+        private static readonly ILog loggerLe = LogManager.GetLogger( typeof(Program));
+        
+
         static void Main(string[] args)
         {
-            logger.Debug("Debugging message");
-            logger.Info("Info message");
-            logger.Warn("Warning message");
-            logger.Error("Error message");
-            logger.Fatal("Fatal message");
+            loggerLe.Info("This is a test message");
+            loggerLe.Info("This is a test message");
+            loggerLe.Info("This is a test message");
+            loggerLe.Info("This is a test message");
+            loggerLe.Info("This is a test message");
+            loggerLe.Info("This is a test message");
+            loggerLe.Info("This is a test message");
+            loggerLe.Info("This is a test message");
+            loggerLe.Info("This is a test message");
 
             String x = System.Console.ReadLine();
         }
