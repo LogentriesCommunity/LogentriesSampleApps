@@ -15,7 +15,6 @@ namespace LogentriesNlogSampleApp
             logger.Info("Info message");
             logger.Warn("Warning message");
             logger.Error("Error message");
-            logger.Fatal("{Error:{Test='fail' IP:'1.0.0.127' JSON: 'TRUE'}}");
             String a = System.Console.ReadLine();
         }
     }
